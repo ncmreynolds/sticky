@@ -7,7 +7,7 @@ The design is 3D printable on common hobbyist 3D printers in whatever material y
 
 Sticky uses all the GPIO on an ESP32, without multiplexing, to provide plenty of buttons and switches for your project.
 
-![](images\sticky01.png)
+![](images/sticky01.png)
 
 ## Supported joysticks
 
